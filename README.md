@@ -1,2 +1,2 @@
 # FunBox_Test
-Test task fo FunBox company
+Test task for FunBox company
